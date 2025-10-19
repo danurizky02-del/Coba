@@ -15,7 +15,7 @@ git clone https://github.com/danurizky02-del/Coba
 ```
 4. Open the folder
 ```
-cd reedem
+cd Coba
 ```
 5. Setup
 ```
