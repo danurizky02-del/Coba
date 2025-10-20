@@ -17,7 +17,7 @@ git clone https://github.com/danurizky02-del/Coba
 ```
 cd Coba
 ```
-5. Setup
+5. Setup jika lewat termux
 ```
 bash setup.sh
 ```
