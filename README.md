@@ -19,7 +19,11 @@ cd Coba
 ```
 5. Setup
 ```
-bash setup.sh atau jika lewat cmd pip install -r requirements.txt
+bash setup.sh
+```
+   Setup jika lewat cmd
+```
+pip install -r requirements.txt
 ```
 6. Run the script
 ```
